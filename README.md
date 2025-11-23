@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a 3rd Semester CSE Student</h1>
+<h1 align="center">👋 Hi, I'm Ayush </h1>
 
 <p align="center">
   🚀 Learning Full Stack Development | 🌱 Exploring AI/ML | 📚 Building Skills Step-by-Step  
@@ -7,7 +7,7 @@
 ---
 
 ## 🎓 About Me
-- 👨‍🏫 Currently in **3rd Semester (CSE/IT)**  
+- 👨‍🏫 Currently in **3rd Semester (CSE)**  
 - 🌱 Learning **Data Structures, Web Development & AI basics**  
 - 💻 Improving skills by building small and meaningful projects  
 - 🎯 Goal: Become a strong **Full Stack + AI Engineer**  
