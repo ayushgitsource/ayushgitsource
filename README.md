@@ -59,16 +59,7 @@
 
 ---
 
-## 🗂️ My Projects (Replace with your repos)
 
-| Project | Description |
-|--------|-------------|
-| 🌐 **Portfolio Website** | Simple, clean portfolio using HTML/CSS/JS |
-| 📒 **Notes App** | CRUD app using JavaScript or MERN stack |
-| 🔐 **Login/Signup System** | Node.js + Express authentication |
-| 🤖 **ML Mini Project** | Basic ML model (spam detection / digit classification) |
-
----
 
 ## 🌎 Connect With Me
 <p align="left">
@@ -76,16 +67,4 @@
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
 
-⭐ **Tip:** Replace `<yourusername>` with your real GitHub username.
-
----
-
-If you want, I can:
-✅ Add your real name  
-✅ Add your username  
-✅ Add your real skills  
-✅ Add your actual projects  
-
-Just tell me **your GitHub username**, and I’ll customize it 100% for you.
