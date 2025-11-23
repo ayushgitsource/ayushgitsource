@@ -1,4 +1,18 @@
 ## Hi there 👋
+# Hi, Ayush 👋
+
+Welcome to my GitHub profile!
+
+## About Me
+- 🔭 I’m currently working on **cool projects**
+- 🌱 I’m learning **Python and AI**
+- 💬 Ask me about **web development**
+- 📫 How to reach me: **jane@example.com**
+
+## Skills
+- JavaScript, Python, C++
+- React, Node.js, Flask
+
 
 <!--
 **ayushgitsource/ayushgitsource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
